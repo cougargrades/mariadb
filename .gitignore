@@ -1,26 +1,2 @@
 # vscode
 .vscode/
-
-# data files
-*.csv
-!sample.csv
-*.db
-*.sql
-!sample.sql
-config.json
-
-node_modules/
-
-webserver/assets/public/css/*
-
-*.log
-
-.env
-dump.sql
-
-payload.zip
-payload.tar.gz
-
-_site/
-
-env.json
