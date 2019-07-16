@@ -1,4 +1,4 @@
-# mariadb
+# @cougargrades/mariadb
 MariaDB Docker image used in cougargrades PoC-2
 
 ## Usage
